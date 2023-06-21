@@ -9,8 +9,8 @@ Python & Markdown
 **A** top 10-15 , **B+** ถึง **F** ตามเกณฑ์
 - Homework 25% (เดี่ยว,กลุ่มสุ่ม)
 - Project 30% (กลุ่มเลือกเอง)
-- Midterm 15% (กลุ่มสุ่ม)
-- Final 20% (เดี่ยว)
+- Midterm 15% (เดี่ยว)
+- Final 20% (กลุ่มสุ่ม)
 - Quiz 10% (เดี่ยว)
 
 Final Score = Score * Attendencre (เน้นสวย พรีเซนท์ดี)
